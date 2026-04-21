@@ -1,0 +1,69 @@
+{
+  "coffee_competitors": [
+    {
+      "category": "Mainstream Giants",
+      "brands": [
+        {"name": "Doutor", "jp_name": "ドトール", "vibe": "daily_comfort"},
+        {"name": "Starbucks Japan", "jp_name": "スタバ", "vibe": "seasonal_experience"},
+        {"name": "Komeda", "jp_name": "コメダ珈琲店", "vibe": "privacy_retro"},
+        {"name": "Tully's Coffee", "jp_name": "タリーズ", "vibe": "business_balance"},
+        {"name": "St. Marc Cafe", "jp_name": "サンマルクカフェ", "vibe": "bakery_fusion"},
+        {"name": "Ueshima Coffee", "jp_name": "上島珈琲店", "vibe": "traditional_flannel"},
+        {"name": "Hoshino Coffee", "jp_name": "星乃珈琲店", "vibe": "hand_drip_pancake"},
+        {"name": "Kohikan", "jp_name": "珈琲館", "vibe": "classic_kissaten"},
+        {"name": "Pronto", "jp_name": "プロント", "vibe": "day_night_hybrid"},
+        {"name": "Cafe de Crie", "jp_name": "カフェ・ド・クリエ", "vibe": "urban_refresh"},
+        {"name": "Veloce", "jp_name": "カフェ・ベローチェ", "vibe": "efficiency_speed"},
+        {"name": "Excelsior Cafe", "jp_name": "エクセルシオール", "vibe": "premium_italian"},
+        {"name": "Mister Donut", "jp_name": "ミスタードーナツ", "vibe": "bottomless_coffee"},
+        {"name": "Seven-Eleven", "jp_name": "セブンカフェ", "vibe": "convenience_value"},
+        {"name": "Lawson Machi Cafe", "jp_name": "マチカフェ", "vibe": "health_decaf"}
+      ]
+    },
+    {
+      "category": "Specialty & Aesthetic",
+      "brands": [
+        {"name": "Blue Bottle Japan", "jp_name": "ブルーボトル", "vibe": "minimalism"},
+        {"name": "% Arabica", "jp_name": "アラビカ京都", "vibe": "global_design"},
+        {"name": "Koffee Mameya Kakeru", "jp_name": "コーヒーマメヤ", "vibe": "omakase_lab"},
+        {"name": "Glitch Coffee & Roasters", "jp_name": "グリッチ", "vibe": "light_roast_top"},
+        {"name": "Fuglen Tokyo", "jp_name": "フグレン", "vibe": "lifestyle_vintage"},
+        {"name": "Onibus Coffee", "jp_name": "オニバス", "vibe": "community_sustainable"},
+        {"name": "Sarutahiko Coffee", "jp_name": "猿田彦珈琲", "vibe": "neo_japanese_specialty"},
+        {"name": "Single O Japan", "jp_name": "シングルオー", "vibe": "self_serve_innovation"},
+        {"name": "Allpress Espresso", "jp_name": "オールプレス", "vibe": "wood_classic"},
+        {"name": "Leaves Coffee Roasters", "jp_name": "リーブス", "vibe": "industrial_roastery"},
+        {"name": "Coffee Supreme Tokyo", "jp_name": "コーヒースプリーム", "vibe": "street_culture"},
+        {"name": "Verve Coffee Roasters", "jp_name": "ヴァーヴ", "vibe": "california_sun"},
+        {"name": "Lilo Coffee Roasters", "jp_name": "リロ", "vibe": "osaka_personality"},
+        {"name": "Rokumei Coffee", "jp_name": "ロクメイ", "vibe": "nara_balance"},
+        {"name": "Ogawa Coffee Laboratory", "jp_name": "小川珈琲ラボ", "vibe": "experimental_brewing"},
+        {"name": "Streamer Coffee Company", "jp_name": "ストリーマー", "vibe": "latte_art_pioneer"},
+        {"name": "About Life Coffee Brewers", "jp_name": "アバウトライフ", "vibe": "street_stand"},
+        {"name": "Nozy Coffee", "jp_name": "ノジー", "vibe": "single_origin_purist"},
+        {"name": "Woodberry Coffee", "jp_name": "ウッドベリー", "vibe": "organic_earth"},
+        {"name": "Switch Coffee Tokyo", "jp_name": "スイッチ", "vibe": "origin_focused"}
+      ]
+    },
+    {
+      "category": "2026 Trending & New",
+      "brands": [
+        {"name": "Quaro Harajuku", "jp_name": "クアロ", "vibe": "art_gallery_non_alc"},
+        {"name": "Bacha Coffee Ginza", "jp_name": "バシャ", "vibe": "luxury_moroccan"},
+        {"name": "Vannelli Coffee", "jp_name": "ヴァンネリ", "vibe": "champion_italian"},
+        {"name": "Mia Mia Kuramae", "jp_name": "マイマイ", "vibe": "warm_community"},
+        {"name": "Liwei Tokyo", "jp_name": "リーウェイ", "vibe": "taiwanese_fusion"},
+        {"name": "Kielo Coffee", "jp_name": "キエロ", "vibe": "healing_space"},
+        {"name": "Mermaid Coffee Roasters", "jp_name": "マーメイド", "vibe": "quirky_retro"},
+        {"name": "Cafe Reissue", "jp_name": "リイシュー", "vibe": "3d_latte_art"},
+        {"name": "Samaa Coffee", "jp_name": "サマー", "vibe": "middle_east_spice"},
+        {"name": "Counterpart Coffee Gallery", "jp_name": "カウンターパート", "vibe": "vertical_cafe"},
+        {"name": "Iron Coffee", "jp_name": "アイアンコーヒー", "vibe": "minimalist_stand"},
+        {"name": "Coffee Wrights", "jp_name": "コーヒーライツ", "vibe": "transparent_craft"},
+        {"name": "Sidewalk Stand", "jp_name": "サイドウォーク", "vibe": "nakameguro_stroll"},
+        {"name": "Little Nap Coffee Stand", "jp_name": "リトルナップ", "vibe": "vinyl_culture"},
+        {"name": "The Coffee Roasters", "jp_name": "ザ・コーヒー", "vibe": "data_driven_2026"}
+      ]
+    }
+  ]
+}
